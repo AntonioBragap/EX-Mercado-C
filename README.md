@@ -1,1 +1,1 @@
-# EX-Mercado-C
+<h2> Aqui utilizarei a linguagem C para simular operações de um mercado </h2>
